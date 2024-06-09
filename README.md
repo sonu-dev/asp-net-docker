@@ -1,6 +1,6 @@
 # asp-net-docker
 
-- Docker Destop
-- Docker compose
+- Docker Desktop
+- Docker Compose
 - Dockerfile
 - Linux Container
